@@ -1,0 +1,2 @@
+[console_scripts]
+spatial-reward = spatial_reward.cli:main
